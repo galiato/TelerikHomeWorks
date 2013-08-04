@@ -1,0 +1,6 @@
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\02. GetMax\bin\Debug\_02.GetMax.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\02. GetMax\bin\Debug\_02.GetMax.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\02. GetMax\obj\Debug\_02.GetMax.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\02. GetMax\obj\Debug\_02.GetMax.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\02. GetMax\obj\Debug\_02.GetMax.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\02. GetMax\obj\Debug\_02.GetMax.pdb

@@ -1,0 +1,2 @@
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\11. AddingTwoPolynomials\obj\Debug\_11.AddingTwoPolynomials.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\11. AddingTwoPolynomials\obj\Debug\_11.AddingTwoPolynomials.pdb

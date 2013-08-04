@@ -1,0 +1,5 @@
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\04. 04. NumbersInArrayWithTest\obj\Debug\_04._04.NumbersInArrayWithTest.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\04. 04. NumbersInArrayWithTest\obj\Debug\_04._04.NumbersInArrayWithTest.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\04. 04. NumbersInArrayWithTest\bin\Debug\_04._04.NumbersInArrayWithTest.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\04. 04. NumbersInArrayWithTest\bin\Debug\_04._04.NumbersInArrayWithTest.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\04. 04. NumbersInArrayWithTest\obj\Debug\NumbersInArrayWithTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\08. AddingBigIntegersAsArrays\bin\Debug\_08.AddingBigIntegersAsArrays.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\08. AddingBigIntegersAsArrays\bin\Debug\_08.AddingBigIntegersAsArrays.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\08. AddingBigIntegersAsArrays\obj\Debug\_08.AddingBigIntegersAsArrays.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\08. AddingBigIntegersAsArrays\obj\Debug\_08.AddingBigIntegersAsArrays.pdb

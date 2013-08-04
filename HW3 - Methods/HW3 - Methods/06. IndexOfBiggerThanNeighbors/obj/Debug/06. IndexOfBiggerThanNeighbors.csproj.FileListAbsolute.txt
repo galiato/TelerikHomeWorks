@@ -1,0 +1,8 @@
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\06. IndexOfBiggerThanNeighbors\bin\Debug\_06.IndexOfBiggerThanNeighbors.exe.config
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\06. IndexOfBiggerThanNeighbors\bin\Debug\_06.IndexOfBiggerThanNeighbors.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\06. IndexOfBiggerThanNeighbors\bin\Debug\_06.IndexOfBiggerThanNeighbors.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\06. IndexOfBiggerThanNeighbors\obj\Debug\_06.IndexOfBiggerThanNeighbors.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\06. IndexOfBiggerThanNeighbors\obj\Debug\_06.IndexOfBiggerThanNeighbors.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\06. IndexOfBiggerThanNeighbors\bin\Debug\_06.IndexOfBiggerThanNeighbors.exe.config
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\06. IndexOfBiggerThanNeighbors\obj\Debug\_06.IndexOfBiggerThanNeighbors.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\06. IndexOfBiggerThanNeighbors\obj\Debug\_06.IndexOfBiggerThanNeighbors.pdb

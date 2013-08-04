@@ -1,0 +1,6 @@
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\03. LastIntegerMethod\bin\Debug\_03.LastIntegerMethod.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\03. LastIntegerMethod\bin\Debug\_03.LastIntegerMethod.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\03. LastIntegerMethod\obj\Debug\_03.LastIntegerMethod.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\Home work2 - Multidimensional-Arrays\HW3 - Methods\03. LastIntegerMethod\obj\Debug\_03.LastIntegerMethod.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\03. LastIntegerMethod\obj\Debug\_03.LastIntegerMethod.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\03. LastIntegerMethod\obj\Debug\_03.LastIntegerMethod.pdb

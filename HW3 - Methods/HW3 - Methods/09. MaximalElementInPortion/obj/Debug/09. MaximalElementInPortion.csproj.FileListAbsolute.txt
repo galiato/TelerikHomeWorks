@@ -1,0 +1,4 @@
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\09. MaximalElementInPortion\bin\Debug\_09.MaximalElementInPortion.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\09. MaximalElementInPortion\bin\Debug\_09.MaximalElementInPortion.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\09. MaximalElementInPortion\obj\Debug\_09.MaximalElementInPortion.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\09. MaximalElementInPortion\obj\Debug\_09.MaximalElementInPortion.pdb

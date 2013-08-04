@@ -1,0 +1,7 @@
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\UnitTestProject4\bin\Debug\UnitTestProject4.dll
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\UnitTestProject4\bin\Debug\UnitTestProject4.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\UnitTestProject4\bin\Debug\_04._04.NumbersInArrayWithTest.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\UnitTestProject4\bin\Debug\_04._04.NumbersInArrayWithTest.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\UnitTestProject4\obj\Debug\UnitTestProject4.csprojResolveAssemblyReference.cache
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\UnitTestProject4\obj\Debug\UnitTestProject4.dll
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\UnitTestProject4\obj\Debug\UnitTestProject4.pdb

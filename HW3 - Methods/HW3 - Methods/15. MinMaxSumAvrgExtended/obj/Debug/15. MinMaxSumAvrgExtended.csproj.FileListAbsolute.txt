@@ -1,0 +1,5 @@
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\15. MinMaxSumAvrgExtended\bin\Debug\_15.MinMaxSumAvrgExtended.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\15. MinMaxSumAvrgExtended\bin\Debug\_15.MinMaxSumAvrgExtended.pdb
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\15. MinMaxSumAvrgExtended\obj\Debug\15. MinMaxSumAvrgExtended.csprojResolveAssemblyReference.cache
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\15. MinMaxSumAvrgExtended\obj\Debug\_15.MinMaxSumAvrgExtended.exe
+C:\Users\GaliaTodorova\Dropbox\Telerik_wf\C_Sharp 2\HomeWorks\HW3 - Methods\HW3 - Methods\15. MinMaxSumAvrgExtended\obj\Debug\_15.MinMaxSumAvrgExtended.pdb
